@@ -1,0 +1,9 @@
+venv
+.venv
+__pycache__
+*.pyc
+temp_uploads/*
+.git
+.env
+*.sqlite-wal
+*.sqlite-shm

@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+temp_uploads/*
+!temp_uploads/.gitkeep
+.env
+*.sqlite-wal
+*.sqlite-shm
+voting.sqlite*
